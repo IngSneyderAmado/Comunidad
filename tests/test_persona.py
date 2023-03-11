@@ -2,8 +2,6 @@ import unittest
 import datetime
 
 from comunidad.Persona import Persona
-from comunidad.base import Session
-
 class PersonaTestCase(unittest.TestCase):
     
     def setUp(self):
